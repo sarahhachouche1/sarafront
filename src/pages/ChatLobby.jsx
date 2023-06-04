@@ -12,7 +12,7 @@ const ChatLobby = () => {
     const joinRoom = async (user, room) => {
       try {
         const connection = new HubConnectionBuilder()
-          .withUrl("https://localhost:44392/chat")
+          .withUrl("http://chatapi1-dev.eba-9dntcerg.us-east-1.elasticbeanstalk.com/chat")
           .configureLogging(LogLevel.Information)
           .build();
   

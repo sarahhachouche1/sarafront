@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-export const BASE_URL = 'http://chatapi1-dev.eba-9dntcerg.us-east-1.elasticbeanstalk.com/chat';
+export const BASE_URL = '';
 
 export const ENDPOINTS = {
     
