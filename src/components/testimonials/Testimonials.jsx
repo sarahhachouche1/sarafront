@@ -1,8 +1,5 @@
 import React from 'react'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+
 
 // import Swiper core and required modules
 import {  Pagination} from 'swiper';
@@ -16,28 +13,25 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    image: AVTR1,
-    user: "Tina Snow",
+   
+    user: "Peter Fadoul",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda temporibus modi, neque cum dignissimos, dolorem quibusdam soluta recusandae voluptates praesentium fuga voluptas non eos sequi sunt et officia, doloremque commodi?",
+      "Sarah has shown remarkable growth under my mentorship, demonstrating strong technical skills and a knack for problem-solving. Her dedication and passion for web development make them a standout student at Codi Tech.",
   },
   {
-    image: AVTR2,
-    user: "Shatta Wale",
+  
+    user: "Hadeel Deeb",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda temporibus modi, neque cum dignissimos, dolorem quibusdam soluta recusandae voluptates praesentium fuga voluptas non eos sequi sunt et officia, doloremque commodi?",
+      "Sarah possesses excellent communication and presentation skills, effectively conveying ideas and engaging with others. She also excel in teamwork, actively contributing and collaborating with her peers, making them a valuable asset to any project or group.",
   },
   {
-    image: AVTR3,
-    user: "Kwame Despite",
-    review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda temporibus modi, neque cum dignissimos, dolorem quibusdam soluta recusandae voluptates praesentium fuga voluptas non eos sequi sunt et officia, doloremque commodi?",
+    user: "Yasmine Reda",
+    review:"Sarah is an outstanding programming teacher, providing clear explanations and creating an engaging learning environment for my child. Her patience and guidance have fostered my child's passion for programming. I highly recommend Sarah as a dedicated and effective programming instructor.",
   },
   {
-    image: AVTR4,
-    user: "Nana Ama McBrown",
+    user: "Sara shmeiseni",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda temporibus modi, neque cum dignissimos, dolorem quibusdam soluta recusandae voluptates praesentium fuga voluptas non eos sequi sunt et officia, doloremque commodi?",
+      "Working with Sarah on my portfolio was an absolute pleasure. Their attention to detail, creativity, and understanding of my brand resulted in a stunning portfolio that truly captures my style and engages my followers. I highly recommend Sarah for their exceptional design skills and ability to bring a vision to life",
   },
 ];
 

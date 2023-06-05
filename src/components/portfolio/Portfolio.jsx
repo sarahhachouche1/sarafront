@@ -1,51 +1,51 @@
 import React from 'react'
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG6 from '../../assets/portfolio6.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribbble.com",
+    title: "Dental Clinic Website in Figma; MERN",
+    github: "https://github.com/sarahhachouche1",
+    demo: "https://main--whimsical-seahorse-c312f0.netlify.app/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Charts Templates & Infographics in Figma",
-    github: "https://github.com",
-    demo: "https://dribbble.com",
+    title: "Expense Management System ; ASP.net MVC ",
+    github: "https://github.com/sarahhachouche1/Expense-Tracker",
+    demo: "",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Figma Dashboard UI Kit",
-    github: "https://github.com",
-    demo: "https://dribbble.com",
+    title: "Codmetics Products Ecommerce; Mern ",
+    github: "https://github.com/sarahhachouche1/Ecommerce-Cosmetics-Products",
+    demo: "https://avon-skin-care.netlify.app",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Maintaining Tasks & Tracking Progress",
-    github: "https://github.com",
-    demo: "https://dribbble.com",
+    title: "Quiz Application; ASP.net web Api",
+    github: "https://github.com/sarahhachouche1/CsharpQuiz",
+    demo: "",
   },
   {
     id: 5,
     image: IMG5,
-    title: " Charts Templates & Infographics in Figma",
-    github: "https://github.com",
-    demo: "https://dribbble.com",
+    title: " Ecommerce+Portfolio for Photographer; MERN",
+    github: "https://github.com/sarahhachouche1?tab=repositories",
+    demo: "",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Charts Templates & Infographics in Figma",
+    title: "Course Enrollement System, a senior project presented to get my Bachelor Degree in Computer Science ifrom the Lebanese University",
     github: "https://github.com",
     demo: "https://dribbble.com",
   },

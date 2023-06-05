@@ -82,7 +82,7 @@ const Experience = () => {
             <article className="experience__details flex gap-4">
               <BsPatchCheckFill className=" mt-[6px] text-colorPrimary" />
               <div>
-                <h4>Node JS</h4>
+                <h4>Java</h4>
                 <small className="text-colorLight ">Experienced</small>
               </div>
             </article>
@@ -117,7 +117,7 @@ const Experience = () => {
             <article className="experience__details flex gap-4">
               <BsPatchCheckFill className=" mt-[6px] text-colorPrimary" />
               <div>
-                <h4>Python</h4>
+                <h4>SQL</h4>
                 <small className="text-colorLight ">Experienced</small>
               </div>
             </article>

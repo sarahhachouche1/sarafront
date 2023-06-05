@@ -10,7 +10,7 @@ const Footer = () => {
         href="#"
         className="footer__logo text-colorBg text-[2rem] font-[500] mb-[2rem] inline-block "
       >
-        DILANTHA
+        Ask Sarah
       </a>
 
       <ul className="permalinks flex flex-wrap justify-center gap-[1rem] sm:gap-[2rem] mt-0 mx-auto mb-[3rem] flex-col sm:flex-row">
@@ -73,7 +73,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright mb-[4rem] text-colorBg ">
-        <small>&copy; Dilantha WIjesinghe. All rights reserved.</small>
+        <small>&copy; Sarah Hachouche. All rights reserved.</small>
       </div>
     </footer>
   );

@@ -42,7 +42,7 @@ const Contact = () => {
           <article className="contact__option bg-colorBgVariant p-[1.2rem] rounded-[1.2rem] text-center border border-solid border-transparent hover:bg-transparent hover:border-colorPrimaryVariant transition-all duration-[400ms] ease-in .">
             <MdOutlineEmail className=" text-[1.5rem] mb-[0.5rem] mx-auto" />
             <h4>Email</h4>
-            <h5>wdilantha66@gmail.com</h5>
+            <h5>sarahhachouche7@gmail</h5>
             <a
               href="mailto:wdilantha66@gmail.com"
               target="_blank"
@@ -55,9 +55,9 @@ const Contact = () => {
           <article className="contact__option bg-colorBgVariant p-[1.2rem] rounded-[1.2rem] text-center border border-solid border-transparent hover:bg-transparent hover:border-colorPrimaryVariant transition-all duration-[400ms] ease-in">
             <RiMessengerLine className=" text-[1.5rem] mb-[0.5rem] mx-auto" />
             <h4>Messenger</h4>
-            <h5>Dilantha Wijesinghe</h5>
+            <h5>Sarah hachouche</h5>
             <a
-              href="https://www.facebook.com/dilantha.hellfire/"
+              href="https://www.facebook.com/sarahhachouche/"
               target="_blank"
               className="mt-[0.7rem] inline-block text-[0.8rem]"
             >
@@ -68,7 +68,7 @@ const Contact = () => {
           <article className="contact__option bg-colorBgVariant p-[1.2rem] rounded-[1.2rem] text-center border border-solid border-transparent hover:bg-transparent hover:border-colorPrimaryVariant transition-all duration-[400ms] ease-in">
             <BsWhatsapp className=" text-[1.5rem] mb-[0.5rem] mx-auto" />
             <h4>Whatsapp</h4>
-            <h5>+94 721 089 721</h5>
+            <h5>+961 71 071 962</h5>
             <a
               href="https://api.whatsapp.com/send?phone+94721089721"
               target="_blank"

@@ -7,8 +7,8 @@ export const TypedTitle = () => {
       const typed = new Typed(el.current, {
         strings: [
           "Full stack developer",
-          "Front-end developer",
-          "React Developer",
+          "DotNet developer",
+          "Cup<T>",
         ],
         startDelay: 300,
         typeSpeed: 100,
